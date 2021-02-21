@@ -8,5 +8,6 @@ This project is created to accept data received from a censor after every 60 sec
 
 To run the project, use the commands <br>
 <code>Python clienta.py</code> <br>
-<code>Python clientb.py</code>
-The results are stored in csv file
+<code>Python clientb.py</code> <br>
+
+Results will be stored in a .csv file
