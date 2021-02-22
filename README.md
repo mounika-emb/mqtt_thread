@@ -7,7 +7,7 @@ This project is created to accept data received from a sensor after every 30 sec
 </ul>
 
 To run the project, use the commands <br>
-<code>Python clienta.py</code> <br>
-<code>Python clientb.py</code> <br>
+<code>Python clienta.py is edge program</code> <br>
+<code>Python clientb.py is server program</code> <br>
 
 Results will be stored in a .csv file
