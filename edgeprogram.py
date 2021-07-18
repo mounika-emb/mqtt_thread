@@ -3,9 +3,9 @@ import time,logging
 import Adafruit_DHT as d
 from threading import Timer
 broker="broker.hivemq.com"
-count = 0
-port=1883
-QOS=0
+count = 0;
+port=1883;
+QOS=0;
 starttime = 0
 q = [];
 flag = True
